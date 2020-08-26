@@ -1,1 +1,2 @@
-Consider these contents are added by developer2
+print('newly added')
+print('xxxx')
